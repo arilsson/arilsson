@@ -18,7 +18,7 @@
 </div>
 
 - 💻 I’m currently learning Typescript, React and React Native
-- <div style="display: inline_block"><br>
+- <div style="display: inline_block">
   <a>- 💻 I’m currently learning Typescript, React and React Native</a>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
