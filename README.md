@@ -20,7 +20,7 @@
 - 💻 I’m currently learning Node, Typescript, React and React Native
 - 📫 How to reach me: **arilsson_bernardi@hotmail.com**
 
-<div>
+<div align="center" space="between">
 
 <img height= "220em" src="https://github-readme-stats.vercel.app/api?username=arilsson&show_icons=true" alt="Arilsson Bernardi" />
 
