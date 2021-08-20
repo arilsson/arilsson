@@ -17,7 +17,6 @@
 
 </div>
 
-- 👨‍💻 Open to work
 - 💻 I’m currently learning Node, Typescript, React and React Native
 - 📫 How to reach me: **arilsson_bernardi@hotmail.com**
 
