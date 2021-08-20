@@ -22,9 +22,9 @@
 
 <div>
 
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=arilsson&show_icons=true" alt="Arilsson Bernardi" />
+<img height= "220em" src="https://github-readme-stats.vercel.app/api?username=arilsson&show_icons=true" alt="Arilsson Bernardi" />
 
-<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arilsson&show_icons=true" alt="arilsson"/>
+<img height= "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arilsson&show_icons=true" alt="arilsson"/>
  
   </div>
 
