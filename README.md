@@ -26,8 +26,7 @@
   <a/>
   
 </div>
-  <a>📫 How to reach me: **arilsson_bernardi@hotmail.com**</a>
-
+  
 <div align="center" space="between">
 
 <img height= "200em" src="https://github-readme-stats.vercel.app/api?username=arilsson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Arilsson Bernardi" />
