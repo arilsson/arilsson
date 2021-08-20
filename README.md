@@ -26,7 +26,7 @@
   <a/>
   
 </div>
-- 📫 How to reach me: **arilsson_bernardi@hotmail.com**
+  <a>📫 How to reach me: **arilsson_bernardi@hotmail.com**</a>
 
 <div align="center" space="between">
 
