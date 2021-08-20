@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Arilsson Bernardi</h1>
-<h3 align="center">A Web and Mobile Developer </h3>
+<h3 align="center">A developer in development :)</h3>
 
 <div align="center">
 
