@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arilsson&show_icons=true" alt="Arilsson Bernardi" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arilsson&show_icons=true" alt="arilsson"/> </p>
+align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arilsson&show_icons=true" alt="arilsson"/>
 
   ![Snake animation](https://github.com/arilsson/arilsson/blob/output/github-contribution-grid-snake.svg)
 
