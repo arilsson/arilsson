@@ -20,9 +20,14 @@
 - 💻 I’m currently learning Node, Typescript, React and React Native
 - 📫 How to reach me: **arilsson_bernardi@hotmail.com**
 
+<div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=arilsson&show_icons=true" alt="Arilsson Bernardi" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arilsson&show_icons=true" alt="arilsson"/>
+ 
+  </div>
+
 
   ![Snake animation](https://github.com/arilsson/arilsson/blob/output/github-contribution-grid-snake.svg)
 
