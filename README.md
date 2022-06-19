@@ -6,7 +6,7 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/arilsson-bernardi-682104133/">
-  <code><img alt="My linkedin"  src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg](https://www.flaticon.com/br/icone-premium/linkedin_3256016?term=linkedin&page=1&position=19&page=1&position=19&related_id=3256016&origin=search)" /></code>
+  <code><img alt="My linkedin" width="32" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1655603241~hmac=f20e08737fd52a855c683bd8073ca28d" /></code>
 </a>
 
 <a href="mailto:arilsson_bernardi@hotmail.com">
