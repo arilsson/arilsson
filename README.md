@@ -10,7 +10,7 @@
 </a>
 
 <a href="mailto:arilsson_bernardi@hotmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" /></code>
 </a>
 
 <br/><br/>
